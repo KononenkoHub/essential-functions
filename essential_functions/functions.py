@@ -6,3 +6,6 @@ def xsum(*args):
 
 def xmult(*args):
     return reduce(mul, args)
+
+def square(agr):
+    return arg * arg
